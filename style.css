@@ -109,3 +109,10 @@
       margin-bottom: 20px;
     }
 }
+ @media only screen and (max-width: 658px) {
+   /* For mobile phones: */
+  .ptext{
+   font-size:15px;
+     letter-spacing:5px;
+  }
+}
